@@ -1,0 +1,68 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>.
+@prefix roo: <http://www.cancerdata.org/roo/>.
+@prefix ro: <http://purl.obolibrary.org/obo/ro.owl>.
+@prefix ro: <http://purl.obolibrary.org/obo/ro.owl>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@base <http://example.com/ns#>.
+
+<#TriplesMap1> a rr:TriplesMap;
+	
+  rml:logicalSource [ 
+		rml:source      "/data/B5_full_data.csv";
+    rml:referenceFormulation ql:CSV
+  ];
+    
+	rr:subjectMap [
+		rr:template   "http://www.cancerdata.org/roo/instance/{Subject Id}";
+		rr:class ncit:C69256;
+		rr:termType rr:IRI;
+	];
+   
+	rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000010;
+    rr:objectMap [ rml:reference "Subject Identification" ];
+	];
+   
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rml:reference "Subject Id" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000009;
+    rr:objectMap [ rml:reference "Subject Id" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000008;
+    rr:objectMap [ rml:reference "Study Identifier" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000019;
+    rr:objectMap [ rml:reference "Death Diagnosis Short Name" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000020;
+    rr:objectMap [ rml:reference "Death Diagnosis Name" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000021;
+    rr:objectMap [ rml:reference "Result Category" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000022;
+    rr:objectMap [ rml:reference "Evaluator" ];
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate roo:DKFZ000023;
+    rr:objectMap [ rml:reference "Study Day" ];
+  ];
+.

@@ -1,0 +1,28 @@
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000028> "EY".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000029> "Eyes".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000030> "DERMAL".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000031> "TOXICITY".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000035> "INTEGUMENTARY SYSTEM".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000036> "clinical relevant classification".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000037> "NOT DONE".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000038> "EJ".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000039> "23.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000010> "009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/2000/01/rdf-schema#label> "N150a009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000009> "N150a009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox;FaDu".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000028> "EY".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000029> "Eyes".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000030> "DERMAL".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000031> "TOXICITY".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000035> "INTEGUMENTARY SYSTEM".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000036> "clinical relevant classification".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000037> "NOT DONE".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000038> "EJ".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000039> "16.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000010> "011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/2000/01/rdf-schema#label> "N150a011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000009> "N150a011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox;FaDu".

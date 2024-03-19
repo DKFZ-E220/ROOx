@@ -1,0 +1,437 @@
+1. The following query returns all ontology terms with a label.
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?sub ?obj WHERE {
+  ?sub rdfs:label ?obj .
+}
+
+
+Minimum Amount Information
+ 
+2. The following query returns the Subject Identifier (a.k.a Subject Identification) of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?subject ?value
+WHERE {
+?subject roo:DKFZ000010 ?value .
+}
+
+
+3. The following query returns the Unique Subject Identifier for the Study (a.k.a Subject Id) of the subjects. 
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?subject ?value
+WHERE {
+?subject roo:DKFZ000009 ?value .
+}
+
+
+4. The following query returns the Study Identifier where the subjects are part of. 
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?subject ?value
+WHERE {
+?subject roo:DKFZ000008 ?value .
+}
+
+
+Demographics information
+
+5. The following query returns the Age of the subjects. 
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+select ?x ?y where { 
+  ?x roo:DKFZ000033 ?y
+}
+
+
+6. The following query returns the Age unit of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+select ?x ?y where { 
+  ?x roo:DKFZ000034 ?y
+}
+
+
+7. The following query returns the Sex of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+select ?x ?y where { 
+  ?x roo:DKFZ000040 ?y
+}
+
+
+8. The following query returns the strain/substrain of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+select ?x ?y where { 
+  ?x roo:DKFZ000041 ?y
+}
+
+
+Exposure information
+
+9. The following query returns the name of the Treatment where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000013 ?y .
+}
+
+
+10. The following query returns the Route of Administration of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000011 ?y .
+}
+
+
+11. The following query returns the Treatment Vehicle of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000012 ?y .
+}
+
+
+Findings - Body Weight
+
+12. The following query returns the Body Weight Test short name where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000015 ?y .
+}
+
+
+13. The following query returns the Body Weight Test name where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000016 ?y .
+}
+
+
+14. The following query returns the Body Weight Result or Findings as Collected where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?subject ?value
+WHERE {
+?subject roo:DKFZ000017 ?value .
+}
+
+
+15. The following query returns the Study Day Animal Weighed where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?subject ?value
+WHERE {
+?subject roo:DKFZ000018 ?value .
+}
+
+
+
+Findings - Death Diagnosis and Details
+
+16. The following query returns the Death DIagnosis Short Name of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000019 ?y .
+}
+
+
+17. The following query returns the Death Diagnosis Name of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000020 ?y .
+}
+
+
+18. The following query returns the Death Diagnosis Result Category of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000021 ?y .
+}
+
+
+19. The following query returns the Death Diagnosis evaluator of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000022 ?y .
+}
+
+
+20. The following query returns the Study Day Animal Death of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000023 ?y .
+}
+
+
+
+Findings - Clinical Observations
+
+21. The following query returns the Clinical Observations Test Short Name where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000028 ?y .
+}
+
+
+22. The following query returns the Clinical Observations Test Name where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000029 ?y .
+}
+
+
+23. The following query returns the Category for Clinical Observations of the test where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000030 ?y .
+}
+
+
+24. The following query returns the Subcategory for Clinical Observations of the test where the subjects are part of.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000031 ?y .
+}
+
+
+25. The following query returns the Body System or Organ Class of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000035 ?y .
+}
+
+
+26. The following query returns the clinical Observations Result Category of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000036 ?y .
+}
+
+
+27. The following query returns the Clinical Observations Completion Status of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000037 ?y .
+}
+
+
+28. The following query returns the Clinical Observations evaluator of the subjects
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000038 ?y .
+}
+
+
+29. The following query returns the Study Day of Clinical Observation of the subjects.
+
+PREFIX roo: <http://www.cancerdata.org/roo/> 
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> 
+PREFIX uo: <http://purl.obolibrary.org/obo/UO> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?x ?y
+WHERE {
+?x roo:DKFZ000039 ?y .
+}

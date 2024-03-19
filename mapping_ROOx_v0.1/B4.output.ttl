@@ -1,0 +1,18 @@
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000015> "BW".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000016> "Body Weight".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000017> "33.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000018> "20.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000010> "009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/2000/01/rdf-schema#label> "N150a009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000009> "N150a009".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox;FaDu".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000015> "BW".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000016> "Body Weight".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000017> "44.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000018> "13.0".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000010> "011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.w3.org/2000/01/rdf-schema#label> "N150a011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000009> "N150a011".
+<http://www.cancerdata.org/roo/instanceDKFZ000012> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox;FaDu".

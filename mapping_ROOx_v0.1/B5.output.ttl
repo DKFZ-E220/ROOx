@@ -1,0 +1,200 @@
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000023> "212.0".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000010> "9".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.w3.org/2000/01/rdf-schema#label> "N150a009".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000009> "N150a009".
+<http://www.cancerdata.org/roo/instance/N150a009> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000023> "212.0".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000010> "11".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.w3.org/2000/01/rdf-schema#label> "N150a011".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000009> "N150a011".
+<http://www.cancerdata.org/roo/instance/N150a011> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000023> "212.0".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000010> "12".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.w3.org/2000/01/rdf-schema#label> "N150a012".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000009> "N150a012".
+<http://www.cancerdata.org/roo/instance/N150a012> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000021> "FOUND DEAD".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000023> "217.0".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000010> "57".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.w3.org/2000/01/rdf-schema#label> "N150b057".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000009> "N150b057".
+<http://www.cancerdata.org/roo/instance/N150b057> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000010> "59".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.w3.org/2000/01/rdf-schema#label> "N150b059".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000009> "N150b059".
+<http://www.cancerdata.org/roo/instance/N150b059> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000010> "81".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.w3.org/2000/01/rdf-schema#label> "N150b081".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000009> "N150b081".
+<http://www.cancerdata.org/roo/instance/N150b081> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000021> "FOUND DEAD".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000023> "160.0".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000010> "82".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.w3.org/2000/01/rdf-schema#label> "N150b082".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000009> "N150b082".
+<http://www.cancerdata.org/roo/instance/N150b082> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000021> "MORIBUND SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000023> "142.0".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000010> "83".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.w3.org/2000/01/rdf-schema#label> "N150b083".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000009> "N150b083".
+<http://www.cancerdata.org/roo/instance/N150b083> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000010> "84".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.w3.org/2000/01/rdf-schema#label> "N150b084".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000009> "N150b084".
+<http://www.cancerdata.org/roo/instance/N150b084> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000021> "INTERIM SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000022> "KS".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000023> "104.0".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000010> "95".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.w3.org/2000/01/rdf-schema#label> "N150b095".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000009> "N150b095".
+<http://www.cancerdata.org/roo/instance/N150b095> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000010> "96".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.w3.org/2000/01/rdf-schema#label> "N150b096".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000009> "N150b096".
+<http://www.cancerdata.org/roo/instance/N150b096> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000010> "98".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.w3.org/2000/01/rdf-schema#label> "N150b098".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000009> "N150b098".
+<http://www.cancerdata.org/roo/instance/N150b098> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000021> "INTERIM SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000023> "191.0".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000010> "103".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.w3.org/2000/01/rdf-schema#label> "N150b103".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000009> "N150b103".
+<http://www.cancerdata.org/roo/instance/N150b103> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000010> "104".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.w3.org/2000/01/rdf-schema#label> "N150b104".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000009> "N150b104".
+<http://www.cancerdata.org/roo/instance/N150b104> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000021> "FOUND DEAD".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000023> "212.0".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000010> "110".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.w3.org/2000/01/rdf-schema#label> "N150b110".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000009> "N150b110".
+<http://www.cancerdata.org/roo/instance/N150b110> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000021> "INTERIM SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000022> "KS".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000023> "149.0".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000010> "111".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.w3.org/2000/01/rdf-schema#label> "N150b111".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000009> "N150b111".
+<http://www.cancerdata.org/roo/instance/N150b111> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000010> "112".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.w3.org/2000/01/rdf-schema#label> "N150b112".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000009> "N150b112".
+<http://www.cancerdata.org/roo/instance/N150b112> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000010> "115".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.w3.org/2000/01/rdf-schema#label> "N150b115".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000009> "N150b115".
+<http://www.cancerdata.org/roo/instance/N150b115> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000021> "FOUND DEAD".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000023> "189.0".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000010> "116".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.w3.org/2000/01/rdf-schema#label> "N150b116".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000009> "N150b116".
+<http://www.cancerdata.org/roo/instance/N150b116> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69256>.
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000019> "DEATHD".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000020> "Death Diagnosis".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000021> "TERMINAL SACRIFICE".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000022> "EJ".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000023> "219.0".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000010> "128".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.w3.org/2000/01/rdf-schema#label> "N150b128".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000009> "N150b128".
+<http://www.cancerdata.org/roo/instance/N150b128> <http://www.cancerdata.org/roo/DKFZ000008> "Xeno Nimo Hypox,FaDu".
